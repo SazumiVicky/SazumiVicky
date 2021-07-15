@@ -9,7 +9,7 @@
 <img src="https://raw.githubusercontent.com/SazumiVicky/sazumi.developer/main/html.sazumivicky.png" alt="angular-js" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/SazumiVicky/sazumi.developer/main/css.sazumivicky.png" alt="vue" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/SazumiVicky/sazumi.developer/main/python.sazumivicky.png" alt="bootstrap" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/SazumiVicky/sazumi.developer/main/c.sazumivicky.png" alt="css3" width="25" height="25" />
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=spiderpig86&show_icons=true&count_private=true" alt="spiderpig86" />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=Spiderpig86.Spiderpig86" alt="visitors"></p>
