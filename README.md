@@ -1,7 +1,7 @@
 <h2>Hey 👋, I'm <a href="https://www.sazumivicky.my.id/">Sazumi Vicky</a></h2>
 <p>Saya Adalah Seorang Pengembang web yang mengkhususkan diri dalam Perancangan Situs Web, atau secara khusus terlibat dalam pengembangan aplikasi World Wide Web menggunakan client–server model.</p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SazumiVicky/sazumi.developer/7152a40d23c6a8e7ae9e1a5883df03a20603818c/sazumi.ucul.svg&width=360&height=50">
+  <img src="https://raw.githubusercontent.com/SazumiVicky/sazumi.developer/7152a40d23c6a8e7ae9e1a5883df03a20603818c/sazumi.ucul.svg">
 </p>
 <p><img align="right" src="https://raw.githubusercontent.com/SazumiVicky/sazumi.developer/main/Certificate.dicoding.com.jpg" />
 <p><a target="_blank" href="https://www.sazumivicky.my.id">Learn Coding</a></p>
