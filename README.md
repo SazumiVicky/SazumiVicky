@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm <a href="https://wwww.sazumivicky.my.id/">Sazumi Vicky</a></h2>
+<h2>Hey 👋, I'm <a href="https://www.sazumivicky.my.id/">Sazumi Vicky</a></h2>
 <p>Saya Adalah Seorang Pengembang web yang mengkhususkan diri dalam Perancangan Situs Web, atau secara khusus terlibat dalam, pengembangan aplikasi World Wide Web menggunakan client–server model.</p>
 <p><img align="right" src="https://raw.githubusercontent.com/SazumiVicky/sazumi.developer/main/Dicoding.com%20Certificate.jpg" />
 <p><a target="_blank" href="https://www.sazumivicky.my.id">Learn Coding</a></p>
