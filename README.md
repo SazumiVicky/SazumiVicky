@@ -12,4 +12,4 @@
 </p>
 <img src="https://camo.githubusercontent.com/329ece4bdcea80f245908c6cbb642c5ac645cebd78aaf7192c0f7bf72272718e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d72696465726d616e7362266c61796f75743d636f6d70616374266c616e67735f636f756e743d38" alt="spiderpig86" />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=Spiderpig86.Spiderpig86" alt="visitors"></p>
-![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=rusty-sj&count_private=true&show_icons=true&include_all_commits=true)
+<p><img src="https://github-readme-stats.vercel.app/api?username=rusty-sj&count_private=true&show_icons=true&include_all_commits=true"></p>
