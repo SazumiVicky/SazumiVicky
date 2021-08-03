@@ -10,6 +10,6 @@
 <img src="https://raw.githubusercontent.com/SazumiVicky/sazumi.developer/main/python.sazumivicky.png" alt="bootstrap" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/SazumiVicky/sazumi.developer/main/c.sazumivicky.png" alt="css3" width="25" height="25" />
 </p>
-<img src="https://camo.githubusercontent.com/329ece4bdcea80f245908c6cbb642c5ac645cebd78aaf7192c0f7bf72272718e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d72696465726d616e7362266c61796f75743d636f6d70616374266c616e67735f636f756e743d38" alt="spiderpig86" />
+<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/sazumi.developer@c6b217945e647c0f3687030c9c6bc51e35d466da/sazumi%20skill.svg" alt="spiderpig86" />
 <p><img src="https://cdn.jsdelivr.net/gh/SazumiVicky/sazumi.developer@main/mayaka%20ibara%20sazumi%20vicky.gif"></p>
 <p><img src="https://cdn.jsdelivr.net/gh/SazumiVicky/sazumi.developer@f9fb1f48f28ec618a7af836a217090da5105660a/sazumi%20visitor.svg" alt="visitors"></p>
