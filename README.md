@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm <a href="https://www.sazumivicky.my.id/">Sazumi Vicky</a></h2>
-<p>Saya Adalah Seorang Pengembang web yang mengkhususkan diri dalam Perancangan Situs Web, atau secara khusus terlibat dalam pengembangan aplikasi World Wide Web menggunakan client–server model.</p>
+<p>Saya adalah salah satu web developer dan UI/UX Designer yang bertujuan untuk mengembangkan situs web atau secara khusus terlibat dalam pembuatan tampilan situs web.</p>
 <p><img align="right" src="https://raw.githubusercontent.com/SazumiVicky/sazumi.developer/main/Certificate.dicoding.com.jpg" />
 <p><a target="_blank" href="https://www.sazumivicky.my.id">Learn Coding</a></p>
 <h2>🚀 Beberapa Bahasa yang Saya Gunakan</h2>
