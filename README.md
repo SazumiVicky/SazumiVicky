@@ -5,7 +5,7 @@
 <h2>🚀 Beberapa Bahasa yang Saya Gunakan</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/SazumiVicky/sazumi.developer@main/js.sazumivicky(1).png" alt="JavaScript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/SazumiVicky/sazumi.developer/main/html.sazumivicky.png" alt="angular-js" width="25" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/sazumi.developer@main/html.sazumivicky(1).png" alt="Html" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/SazumiVicky/sazumi.developer/main/css.sazumivicky.png" alt="vue" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/SazumiVicky/sazumi.developer/main/python.sazumivicky.png" alt="bootstrap" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/SazumiVicky/sazumi.developer/main/c.sazumivicky.png" alt="css3" width="25" height="25" />
