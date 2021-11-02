@@ -4,7 +4,7 @@
 <p><a target="_blank" href="https://www.sazumivicky.my.id">Learn Coding</a></p>
 <h2>🚀 Beberapa Bahasa yang Saya Gunakan</h2>
 <p align="left">
-<img src="https://raw.githubusercontent.com/SazumiVicky/sazumi.developer/main/js.sazumivicky.png" alt="react" width="25" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/sazumi.developer@main/js.sazumivicky(1).png" alt="JavaScript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/SazumiVicky/sazumi.developer/main/html.sazumivicky.png" alt="angular-js" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/SazumiVicky/sazumi.developer/main/css.sazumivicky.png" alt="vue" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/SazumiVicky/sazumi.developer/main/python.sazumivicky.png" alt="bootstrap" width="25" height="25" />
