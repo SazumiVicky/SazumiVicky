@@ -8,6 +8,6 @@
 <img src="https://cdn.jsdelivr.net/gh/SazumiVicky/sazumi.developer@main/html.sazumivicky(1).png" alt="Html" width="25" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/SazumiVicky/sazumi.developer@main/css.sazumivicky(1).png" alt="Css" width="25" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/SazumiVicky/sazumi.developer@main/python.sazumivicky(1).png" alt="Python" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/SazumiVicky/sazumi.developer/main/c.sazumivicky.png" alt="css3" width="25" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/sazumi.developer@main/c.sazumivicky(1).png" alt="C" width="25" height="25" />
 </p>
 <img src="https://cdn.jsdelivr.net/gh/SazumiVicky/sazumi.developer@c6b217945e647c0f3687030c9c6bc51e35d466da/sazumi%20skill.svg"></>
