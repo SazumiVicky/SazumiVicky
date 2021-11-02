@@ -3,8 +3,10 @@
 
 <hr>
 
-<p><img align="right" src="https://cdn.jsdelivr.net/gh/SazumiVicky/sazumi.developer@main/Certificate.dicoding.com.jpg" />       
+<p><img align="right" src="https://cdn.jsdelivr.net/gh/SazumiVicky/sazumi.developer@main/Certificate.dicoding.com.jpg" />  
+        
 <hr>
+
 # 🚀 Beberapa Skill Yang Saya Kuasai</h2>
 
 <hr>
