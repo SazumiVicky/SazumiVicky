@@ -1,7 +1,7 @@
 <h2>Hey 👋, I'm <a href="https://www.sazumi.my.id/">Sazumi Vicky</a></h2>
 <p>Saya adalah salah satu web developer dan UI/UX Designer yang bertujuan untuk mengembangkan situs web atau secara khusus terlibat dalam pembuatan tampilan situs web.</p>
 <p><img align="right" src="https://cdn.jsdelivr.net/gh/SazumiVicky/sazumi.developer@main/Certificate.dicoding.com.jpg" />
--------------------------------------------------------------------    
+-  
 <h2>🚀 Beberapa Skill Yang Saya Kuasai</h2>
 
 <p align="left">
