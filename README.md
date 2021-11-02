@@ -1,5 +1,5 @@
 # Hi! im <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"><a href="https://www.sazumi.my.id/">Sazumi Vicky</a></h2>
-<p>Saya Adalah Salah Satu Web Developer Dan UI/UX Designer</p>
+<p>Saya Adalah Salah Satu Web Developer Dan UI/UX Designer Yang Bertujuan Untuk Mengembangkan Situs Web Dan Secara Khusus Terlibat Dalam Pembuatan Design Situs Web</p>
 
 <hr>
 
