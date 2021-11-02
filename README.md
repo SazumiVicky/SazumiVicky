@@ -10,8 +10,6 @@
 <img src="https://cdn.jsdelivr.net/gh/SazumiVicky/sazumi.developer@main/python.sazumivicky(1).png" alt="Python" width="25" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/SazumiVicky/sazumi.developer@main/c.sazumivicky(1).png" alt="C" width="25" height="25" />
 </p>
-<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/sazumi.developer@c6b217945e647c0f3687030c9c6bc51e35d466da/sazumi%20skill.svg"></>
-
 <p align="center">
   <a href="/" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
