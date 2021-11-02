@@ -28,7 +28,7 @@
                         src="https://img.shields.io/badge/-C++-9b3675?style=flat-square&logo=C%2B%2B&logoColor=white">
         </a>
         <!-- Arduino -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Arduino"
+        <a href="https://github.com/sazumivicky?tab=repositories" target="_blank"><img alt="Arduino"
                         src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
         </a>
   </p>
