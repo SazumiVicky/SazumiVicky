@@ -7,7 +7,7 @@
         
 <hr>
 
-<h2>🚀 Beberapa Skill Yang Saya Kuasai</h2>
+# 🚀 Beberapa Skill Yang Saya Kuasai</h2>
 
 <hr>
 
