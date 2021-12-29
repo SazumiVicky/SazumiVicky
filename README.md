@@ -13,6 +13,10 @@
 
 <hr>
 
+<img src="https://terabox.com/s/1TC0LsQouu9yTFvl37Yqleg" alt="">
+
+<hr>
+
 <p align="left">
         <a href="https://github.com/sazumivicky?tab=repositories" target="_blank"><img alt="Code"
                         src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
