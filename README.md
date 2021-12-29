@@ -3,17 +3,13 @@
 
 <hr>
 
-<p><img align="right" src="https://cdn.jsdelivr.net/gh/SazumiVicky/sazumi.developer@main/Certificate.dicoding.com.jpg" />  
+<img src="https://dev.sazumiviki.com/shinoaki" alt="Sazumi Viki">
         
 <hr>
 
 <a href="https://www.sazumi.my.id/">Learn Coding</a></h2>
 
 # 🚀 Skill Saya
-
-<hr>
-
-<img src="https://dev.sazumiviki.com/shinoaki" alt="Sazumi Viki">
 
 <hr>
 
