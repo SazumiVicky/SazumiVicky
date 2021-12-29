@@ -13,7 +13,7 @@
 
 <hr>
 
-<img src="https://terabox.com/s/1TC0LsQouu9yTFvl37Yqleg" alt="">
+<img src="https://dev.sazumiviki.com/shinoaki" alt="Sazumi Viki">
 
 <hr>
 
