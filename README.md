@@ -23,3 +23,13 @@
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 ## &#x270d; Blog & Writing
+
+```net
+imports System
+Module Module1
+   Sub Main()
+    Console.WriteLine("こんにちは、SazumiVikiのGithubへようこそ")
+      Console.ReadKey()
+   End Sub
+End Module
+```
