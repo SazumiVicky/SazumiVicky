@@ -24,7 +24,7 @@
 
 ## &#x270d; Blog & Writing
 
-```javascript
+```vb.net
 imports System
 Module Module1
    Sub Main()
