@@ -24,7 +24,7 @@
 
 ## &#x270d; Blog & Writing
 
-```net
+```javascript
 imports System
 Module Module1
    Sub Main()
