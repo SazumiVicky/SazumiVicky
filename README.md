@@ -1,4 +1,4 @@
-# ハイ、サヤ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"><a href="https://www.sazumi.my.id/">Sazumi Vicky</a></h2>
+# ハイ、サヤ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"><a href="https://www.sazumi.my.id/">Sazumi Viki</a></h2>
 <p>私は自由な時間があるときにサイトを構築するのが好きなWebプログラマーです</p>
 
 <hr>
