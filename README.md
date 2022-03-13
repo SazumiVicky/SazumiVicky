@@ -3,7 +3,7 @@
 
 <hr>
 
-<img src="https://dev.sazumiviki.com/shinoaki" alt="Sazumi Viki">
+<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/sazumi.developer@main/Gura-Github.jpg" alt="Sazumi Viki">
         
 <hr>
 
