@@ -40,4 +40,4 @@ Module Module1
    End Sub
 End Module
 ```
-## U+1F4BB;
+## 💻 私が使用しているOS
