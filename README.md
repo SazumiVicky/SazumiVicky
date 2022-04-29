@@ -1,39 +1,10 @@
-# ハイ、サヤ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"><a href="https://www.sazumiviki.com/">Sazumi Viki</a></h2>
-<p>私は自由な時間があるときにサイトを構築するのが好きなWebプログラマーです</p>
+- 👋 Hi, I’m Viki. Front-End Developer / Junior Penetration Tester ⚛️
+- 🤍 Creating daily content for developers on Facebook (@sazumi.cloud)
+- 🌱 Currently studying -> Cyber Security / React JS
+- ✅ Available for work and collaborations 👍
+- 📧 For bussiness inquiries: hi@sazumiviki.com 
 
-<hr>
-
-<img src="https://cdn.jsdelivr.net/gh/SazumiVicky/sazumi.developer@main/Gura-Github.jpg" alt="Sazumi Viki">
-        
-<hr>
-
-## 🔧 私が習得するスキルのいくつか
-![Sazumi Viki](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![Sazumi Viki](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Sazumi Viki](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Sazumi Viki](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Sazumi Viki](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Sazumi Viki](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Sazumi Viki](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Sazumi Viki](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Sazumi Viki](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-## &#x270d; VB.NET
-
-```vb.net
-imports System
-Module Module1
-   Sub Main()
-    Console.WriteLine("こんにちは、SazumiVikiのGithubへようこそ")
-      Console.ReadKey()
-   End Sub
-End Module
-```
-## 💻 私が使用しているOS
-![Sazumi Viki](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Sazumi Viki](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Sazumi Viki](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Sazumi Viki](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
-![Sazumi Viki](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-
-</hr>
+<!---
+sazumiviki/sazumiviki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
