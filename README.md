@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Viki. Front-End Developer / Junior Penetration Tester 🌐
-- 🤍 Creating daily content for developers on Facebook (@sazumi.cloud)
+- 👋 Hi, I’m Viki. Cyber Security 🌐
+- 🤍 Creating daily content for developers on Blog ![My Blog](https://sazumiviki.com)
 - 🌱 Currently studying -> Cyber Security / React JS
 - ✅ Available for work and collaborations 👍
 - 📧 For bussiness inquiries: hi@sazumiviki.com 
