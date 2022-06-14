@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Viki. Cyber Security 🌐
+- 👋 Hi, I’m Viki. Cloud Technology 🌐
 - 🤍 Creating daily content for developers on Blog [My Blog](https://sazumiviki.com)
-- 🌱 Currently studying -> Cyber Security / React JS
+- 🌱 Currently studying -> Cyber Security / Software engineering
 - ✅ Available for work and collaborations 👍
 - 📧 For bussiness inquiries: hi@sazumiviki.com 
 
