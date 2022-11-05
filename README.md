@@ -1,16 +1,20 @@
-### Hi there 👋
-
-<!--
-**SazumiVicky/SazumiVicky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+ class me:
+ 	user = 'Sazumi Viki'
+		current_work = 'Cyber Security'
+		hobbies = [
+				'Coding',
+				'Reading history books',
+				'Watching Anime'
+				'Computer tinkering'
+			]
+	
+	def getCity():
+		return furano_japan()
+	
+	def Ambitions():
+		Have a big community()
+		Changing the era of technology()
+		Have lots of girls()
+    Want to be an anime()
+ ```
