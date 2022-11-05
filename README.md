@@ -16,5 +16,5 @@
 		Have a big community()
 		Changing the era of technology()
 		Have lots of girls()
-    Want to be an anime()
+                Want to be an anime()
  ```
