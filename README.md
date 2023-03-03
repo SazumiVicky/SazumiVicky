@@ -10,7 +10,7 @@
 			]
 	
 	def getCity():
-		return furano_japan()
+		return makassar_indonesia()
 	
 	def Ambitions():
 		Have a big community()
