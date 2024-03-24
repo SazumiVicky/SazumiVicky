@@ -1,20 +1,21 @@
-```python
- class me:
- 	user = 'Sazumi Viki'
-		current_work = 'Cyber Security'
-		hobbies = [
-				'Coding',
-				'Reading history books',
-				'Watching Anime'
-				'Computer tinkering'
-			]
-	
-	def getCity():
-		return makassar_indonesia()
-	
-	def Ambitions():
-		Have a big community()
-		Changing the era of technology()
-		Have lots of girls()
-                Want to be an anime()
+```bash
+ #!/bin/bash
+
+user='Sazumi Viki'
+current_work='Cyber Security'
+declare -a hobbies=('Coding' 'Reading history books' 'Watching Anime' 'Computer tinkering')
+
+getCity() {
+  echo "makassar_indonesia"
+}
+
+Ambitions() {
+  echo "Have a big community"
+  echo "Changing the era of technology"
+  echo "Have lots of girls"
+  echo "Want to be an anime"
+}
+
+getCity
+Ambitions
  ```
