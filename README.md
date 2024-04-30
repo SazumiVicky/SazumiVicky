@@ -2,7 +2,7 @@
  #!/bin/bash
 
 user='Sazumi Viki'
-current_work='Cyber Security'
+current_work='Loving You'
 declare -a hobbies=('Coding' 'Reading history books' 'Watching Anime' 'Computer tinkering')
 
 getCity() {
