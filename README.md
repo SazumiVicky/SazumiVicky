@@ -1,21 +1,31 @@
-```bash
- #!/bin/bash
-
-user='Sazumi Viki'
-current_work='Loving You'
-declare -a hobbies=('Coding' 'Reading history books' 'Watching Anime' 'Computer tinkering')
-
-getCity() {
-  echo "makassar_indonesia"
+```json
+{
+  "name": "Viki",
+  "age": 19,
+  "hobbies": [
+    "Reading science fiction novels",
+    "Playing indie games"
+  ],
+  "skills": [
+    "Web Development",
+    "Artificial Intelligence",
+    "Data Engineering",
+    "Git",
+    "Cloud Computing",
+    "Database",
+    "Operating Systems"
+  ],
+  "experience": [
+    {
+      "company": "PT SAZUMI CLOUD INC",
+      "position": "Founder and CEO",
+      "description": "Cloud Hosting"
+    }
+  ],
+  "contact": {
+    "email": "root@sazumi.moe",
+    "instagram": "https://www.instagram.com/moe.sazumiviki"
+  }
 }
 
-Ambitions() {
-  echo "Have a big community"
-  echo "Changing the era of technology"
-  echo "Have lots of girls"
-  echo "Want to be an anime"
-}
-
-getCity
-Ambitions
- ```
+```
