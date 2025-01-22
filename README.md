@@ -1,7 +1,7 @@
 ```json
 {
   "name": "Viki",
-  "age": 19,
+  "age": 20,
   "hobbies": [
     "Reading science fiction novels",
     "Playing indie games"
@@ -10,9 +10,9 @@
     "Web Development",
     "Artificial Intelligence",
     "Data Engineering",
-    "Git",
+    "Science",
     "Cloud Computing",
-    "Database",
+    "Mathematics",
     "Operating Systems"
   ],
   "experience": [
